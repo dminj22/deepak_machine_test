@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371632948827",
+    "project_id": "zehntech-ed332",
+    "storage_bucket": "zehntech-ed332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371632948827:android:2ad862f9e464f4fe15a17e",
+        "android_client_info": {
+          "package_name": "com.example.deepak_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAprAAWKBGA_p-eCQE0Ccup1o18ZWAvVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
